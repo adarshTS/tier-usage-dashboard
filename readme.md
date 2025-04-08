@@ -16,6 +16,12 @@ npm install
 ## Starting the Server
 
 ```bash
+npm start
+```
+
+or
+
+```bash
 node server.js
 ```
 
